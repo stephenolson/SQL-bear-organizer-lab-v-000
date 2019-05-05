@@ -1,8 +1,8 @@
-INSERT INTO bears (name) VALUES ('Mr. Chocolate');
-INSERT INTO bears (name) VALUES ('Rowdy');
-INSERT INTO bears (name) VALUES ('Tabitha');
-INSERT INTO bears (name) VALUES ('Sergeant Brown');
-INSERT INTO bears (name) VALUES ('Melissa');
-INSERT INTO bears (name) VALUES ('Grinch');
-INSERT INTO bears (name) VALUES ('Wendy');
-INSERT INTO bears (name) VALUES (NULL);
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 10, 'male', 'red');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 11, 'male', 'yellow');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 12, 'female', 'orange');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 12, 'male', 'green');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 13, 'female', 'blue');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 14, 'male', 'indigo');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 15, 'female', 'violet');
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 17, 'male', 'black');
